@@ -15,8 +15,8 @@ android {
         applicationId = "com.fcl.plugin.mobileglues.eternity"
         minSdk = 26
         targetSdk = 36
-        versionCode = 1040
-        versionName = "1.0.4"
+        versionCode = 1070
+        versionName = "1.0.7-Dev"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
